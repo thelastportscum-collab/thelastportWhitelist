@@ -50,7 +50,7 @@ input {
     width: 100%;
     padding: 12px;
     margin-bottom: 12px;
-    background: #0d1312;
+    background: #252522;
     border: 1px solid #5b4a2f;
     color: #c9b27c;
 }
@@ -98,3 +98,4 @@ button:hover {
     font-size: 13px;
     color: #c9b27c;
 }
+
