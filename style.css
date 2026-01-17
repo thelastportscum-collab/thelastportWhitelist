@@ -6,7 +6,7 @@
 body {
     margin: 0;
     height: 100vh;
-    background: #252522;
+    background: #8b8b7d;
 }
 
 .overlay {
@@ -98,5 +98,6 @@ button:hover {
     font-size: 13px;
     color: #c9b27c;
 }
+
 
 
