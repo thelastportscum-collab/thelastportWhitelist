@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzba0yitpPdT35ojbgg-DaHcWHJeWNwuOf19Kp2XEZhzJEVAnyFk0AbEPsgHX8X5aU-og/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzhc1Y-8i1xIAiqNq25yD7Uqo9A5_9kMOwaUHpVzZolyDfPXcVIwC7EHUudIbCZaLTi1A/exec";
 
 function sendWhitelist() {
     fetch(GOOGLE_SCRIPT_URL, {
@@ -14,3 +14,4 @@ function sendWhitelist() {
     document.getElementById("message").innerText =
         "Whitelist-Antrag gesendet ✔";
 }
+
